@@ -1,0 +1,10 @@
+body{
+
+	/*background-color:black ; */
+	/*color: white;*/
+}
+.ChartBox{
+	width: 900px;
+	height: 900px;
+	display: block;
+}
